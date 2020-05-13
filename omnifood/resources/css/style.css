@@ -305,3 +305,11 @@ header {
     width: auto;
     margin-right: 10px;
 }
+
+/* --------------------------------------- */
+/* CITIES */
+/* --------------------------------------- */
+
+.section-cities img {
+    height: 150px;
+}
